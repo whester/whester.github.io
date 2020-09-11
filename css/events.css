@@ -75,3 +75,10 @@
 .margin-10px-right {
     margin-right: 10px;
 }
+
+img.schedule-image{
+    max-height:280px;
+    max-width:450px;
+    height:auto;
+    width:auto;
+}
